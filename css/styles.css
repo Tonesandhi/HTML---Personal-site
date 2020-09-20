@@ -1,0 +1,28 @@
+
+    body {
+        background-color: lightcyan;
+
+    }
+
+    h1 {
+        color: #66BFBF;
+    }
+
+    h2 {
+        color: #66BFBF;
+    }
+
+    hr{
+        border-style: dotted none none none;
+        background-color: lightcyan;
+        border-width: 6px;
+        border-color: rgb(173, 172, 172);
+        height: 0px;
+        width: 10%;
+
+    }
+
+    img {
+        height: 110px;
+        width: 200px;
+    }
